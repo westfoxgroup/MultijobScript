@@ -9,10 +9,11 @@ version '1.0.0'
 
 server_scripts {
     'config.lua',
-    'server/main.lua'
+    'server.lua'
 }
 
 client_scripts {
     'config.lua',
-    'client/main.lua'
+    'client.lua'
 }
+
